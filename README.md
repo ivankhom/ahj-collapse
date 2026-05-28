@@ -2,7 +2,6 @@
 
 ![CI](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/web.yml/badge.svg)
 
-Виджет сворачиваемого контейнера на чистом JS с CSS-анимацией.
 
 ## Демо
 
